@@ -1,4 +1,4 @@
-# undertaker-app-tasks [![Npm Version](https://img.shields.io/npm/v/undertaker-app-tasks.svg?style=flat)](https://www.npmjs.com/package/undertaker-app-tasks) [![Project Status](https://img.shields.io/badge/status-beta-blue.svg?style=flat)](https://github.com/ng-tools/undertaker-app-tasks)
+# undertaker-lib-tasks [![Npm Version](https://img.shields.io/npm/v/undertaker-lib-tasks.svg?style=flat)](https://www.npmjs.com/package/undertaker-lib-tasks) [![Project Status](https://img.shields.io/badge/status-beta-blue.svg?style=flat)](https://github.com/ng-tools/undertaker-lib-tasks)
 
 Bundle of generic [undertaker](https://github.com/phated/undertaker) application tasks, packaged as [undertaker-registry](https://github.com/phated/undertaker-registry) objects.
 
@@ -12,7 +12,7 @@ The easiest way to get you started with [ng-factory](https://github.com/ng-tools
 Otherwise, for a manual/custom setup, just install the module and manually register the registries to a take instance with `taker.registry()`
 
 ```bash
-$ npm i undertaker-app-tasks --save-dev
+$ npm i undertaker-lib-tasks --save-dev
 ```
 
 ## Communication
@@ -31,7 +31,10 @@ $ tree -L 1 lib/tasks
 lib/tasks
 ├── clean.js
 ├── copy.js
+├── scripts.js
 ├── serve.js
+├── styles.js
+├── templates.js
 ├── views.js
 └── watch.js
 ```
