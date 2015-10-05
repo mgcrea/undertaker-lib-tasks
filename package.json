@@ -13,16 +13,16 @@
     "url": "https://github.com/ng-tools/undertaker-lib-tasks.git"
   },
   "dependencies": {
-    "browser-sync": "^2.8.2",
+    "browser-sync": "^2.9.8",
     "chalk": "^1.1.1",
-    "del": "^1.2.1",
+    "del": "^2.0.2",
     "export-files": "^2.1.0",
     "gulp-rename": "^1.2.2",
     "lodash": "^3.10.1",
     "merge-stream": "^1.0.0",
     "resolve-require": "^0.2.0",
     "undertaker-registry": "0.0.3",
-    "vinyl-fs": "^1.0.0"
+    "vinyl-fs": "^2.1.1"
   },
   "devDependencies": {},
   "scripts": {
