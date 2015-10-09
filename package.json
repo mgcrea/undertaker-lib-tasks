@@ -18,6 +18,7 @@
     "del": "^2.0.2",
     "export-files": "^2.1.0",
     "gulp-rename": "^1.2.2",
+    "gulp-watch": "^4.3.5",
     "lodash": "^3.10.1",
     "merge-stream": "^1.0.0",
     "resolve-require": "^0.2.0",
