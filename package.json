@@ -23,7 +23,7 @@
     "merge-stream": "^1.0.0",
     "resolve-require": "^0.2.0",
     "undertaker-registry": "0.0.3",
-    "vinyl-fs": "^2.2.0"
+    "vinyl-fs": "^2.2.1"
   },
   "devDependencies": {},
   "scripts": {
