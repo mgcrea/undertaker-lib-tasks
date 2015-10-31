@@ -3,6 +3,7 @@
   "version": "0.4.4",
   "description": "",
   "main": "lib/index.js",
+  "license": "MIT",
   "author": {
     "name": "Olivier Louvignes",
     "email": "olivier@mg-crea.com",
@@ -11,6 +12,9 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/ng-tools/undertaker-lib-tasks.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "browser-sync": "^2.9.11",
@@ -25,9 +29,8 @@
     "undertaker-registry": "0.0.3",
     "vinyl-fs": "^2.2.1"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "license": "MIT"
+  "devDependencies": {
+    "eslint": "^1.8.0",
+    "eslint-config-airbnb": "^0.1.0"
+  }
 }
