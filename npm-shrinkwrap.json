@@ -1,6 +1,6 @@
 {
   "name": "undertaker-lib-tasks",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "dependencies": {
     "browser-sync": {
       "version": "2.11.1",
